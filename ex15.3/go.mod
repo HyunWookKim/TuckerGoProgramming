@@ -1,0 +1,3 @@
+module goprojects/ex15.3
+
+go 1.16
